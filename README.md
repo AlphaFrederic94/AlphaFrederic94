@@ -1,6 +1,7 @@
 - 👋 Hi, Ngana Noa  AKA AlphaFrederic94
 - 👀 I’m interested in ... Machine Learning Deep Learning, Mathematics Physics, Cryptography (Basically Anything that has to do ith secutity)
 Also Dataacience and Data Science is pretty intereting too I'd say... Yeah also I forgot 3D modelling
+-Founder of DataMind_Creative a club responsible for the developmemnt and teaching of algorithms to others for the purpose of innovating and being best
 - 🌱 I’m currently a college student 2nd Year Studying Mathematics and Computer Sciences
 - 💞️ I’m looking to collaborate on Any project which could actually help me level my skills to the next level
 - 📫 You could reach me through noafrederic91@gmail.com
