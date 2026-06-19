@@ -1,7 +1,9 @@
 - 👋 Hi,  I'm MasterSilver
 - 👀 I’m interested in ... Machine Learning Deep Learning, Mathematics Physics, Cryptography (Basically Anything that has to do ith secutity)
 Also Dataacience and Data Science is pretty intereting too I'd say... Yeah also I forgot 3D modelling which im pretty Good at
--Founder of *DataMind_Creative*, responsible for the developmemnt and teaching of algorithms to others for the purpose of innovating and being best
+- Founder of *DataMind_Creative*, responsible for the developmemnt and teaching of algorithms to others for the purpose of innovating and being best
+- Currently Building U....A which will be released Mid July 2026
+- Most of My Repos are Private but I will be placing some interesting projets Public... if I dont then I might have forgotten (-_-))
 - 💞️ I’m looking to collaborate on Any project which could actually help me level my skills to the next level
 - any interesting Project or collab ?
 - 😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄 Love life Have fun Code rest Familly
