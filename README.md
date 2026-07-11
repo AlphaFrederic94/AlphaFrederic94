@@ -17,7 +17,7 @@
 $ whoami
 &gt; Ngana Noa Junior Frederic  ("MasterSilver")
 &gt; Backend Engineer, Machine Learning Researcher
-&gt; Based in Yaounde, Cameroon
+&gt; Based in Yaounde, Cameroon | Open to relocation an Remote
 &gt; Focus: distributed backend systems, applied NLP, mobile platforms
 &gt; Also building: algorithmic trading systems, application security research
 </pre>
