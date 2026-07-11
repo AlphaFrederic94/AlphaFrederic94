@@ -164,6 +164,10 @@ Outside of client work, I build algorithmic trading systems in Python and MQL5, 
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/AlphaFrederic94/AlphaFrederic94/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ## Contact
 
 <div align="center">
