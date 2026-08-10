@@ -26,7 +26,7 @@ $ whoami
 
 ## About
 
-Backend engineer and machine learning researcher with 2+ years building production systems across healthcare, fintech, and real-time platforms. My core work is backend architecture and API design, and my research work is applied NLP, primarily low-resource language modelling. I have shipped end to end: REST APIs, mobile builds in Expo, and deployment on AWS EC2 and DigitalOcean.
+Backend engineer and machine learning researcher with 4 years building production systems across healthcare, fintech, and real-time platforms. My core work is backend architecture and API design, and my research work is applied NLP, primarily low-resource language modelling. I have shipped end to end: REST APIs, mobile builds in Expo, and deployment on AWS EC2 and DigitalOcean.
 
 Selected results:
 
